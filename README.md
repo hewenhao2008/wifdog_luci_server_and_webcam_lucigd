@@ -1,0 +1,2 @@
+#wifdog_luci_server_and_webcam_lucigd
+luci实现的wifidog验证服务器，界面还不错；luci实现webcam界面；luci实现gd库，生成验证码实例
